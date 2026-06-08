@@ -1,0 +1,6 @@
+chroma_db
+.claude
+__pycache__
+venv
+.env
+Graph.pdf
